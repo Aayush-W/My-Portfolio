@@ -1,5 +1,5 @@
 # My-Portfolio
-https://aayush-118.github.io/My-Portfolio/
+https://my-portfolio-118.vercel.app/
 
 
 Visit the above link to view my portfolio.
